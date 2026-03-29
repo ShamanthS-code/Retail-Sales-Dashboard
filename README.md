@@ -28,6 +28,7 @@ This project analyzes retail sales data using Power BI and SQL to uncover insigh
 ![Dashboard](Dashboard.png)
 
 🗄 SQL Queries
+[View Here](sql_queries.sql)
 SQL was used to:
 - Aggregate sales by category and sub-category  
 - Identify top customers and regions  
