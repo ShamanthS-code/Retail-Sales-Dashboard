@@ -5,29 +5,34 @@ This project analyzes retail sales data using Power BI and SQL to uncover insigh
 
 📈 Key Insights
 
-Total Sales: 2.3M
-Total Profit: 286K
-Total Orders: 9994
-Highest sales observed in November & December
+- Total Sales: 2.3M
+- Total Profit: 286K
+- Total Orders: 9994
+- Highest sales observed in November & December
 
 📊 Dashboard Features
 
-Monthly Sales Trend
-Profit Trend Analysis
-Category-wise Sales Distribution
-Sub-category Profit Analysis
-Interactive Filters
+- Monthly Sales Trend
+- Profit Trend Analysis
+- Category-wise Sales Distribution
+- Sub-category Profit Analysis
+- Interactive Filters
 
 🛠 Tools & Technologies
-Power BI
-MySQL
-SQL
-Excel
+- Power BI
+- MySQL
+- SQL
+- Excel
 
 📷 Dashboard Preview
 ![Dashboard](Dashboard.png)
 
 🗄 SQL Queries
+SQL was used to:
+- Aggregate sales by category and sub-category  
+- Identify top customers and regions  
+- Analyze monthly sales trends  
+- Calculate profit distribution
 All SQL queries used for analysis are included in the repository.
 
 🚀 Author
