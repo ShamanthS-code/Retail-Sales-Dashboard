@@ -20,7 +20,6 @@ This project analyzes retail sales data using Power BI and SQL to uncover insigh
 
 🛠 Tools & Technologies
 - Power BI
-- MySQL
 - SQL
 - Excel
 
